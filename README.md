@@ -1,2 +1,2 @@
 # github_learning
-re-learn github on youtube
+re-learn GitHub on youtube
