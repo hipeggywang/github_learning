@@ -1,3 +1,5 @@
+# This file was shared by Toni from Telegra
+# This file does not include the code to fetch the history data
 import time
 import datetime
 import random
